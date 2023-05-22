@@ -1,0 +1,34 @@
+Beneficiary
+Basic Details
+Other Name
+Category
+D.O.B
+Relationship
+WIFE
+DAUGHTER
+SON
+MOTHER
+FATHER
+BROTHER
+HUSBAND
+OTHER
+Lumpsum Entitlement
+Group Life Entitlement
+Gender
+MALE
+FEMALE
+OTHER
+Other details
+Maiden Name
+Nationality
+Mobile Number
+Date Of Appointment
+Place Of Birth
+Place of Birth District
+Village
+Permanent Home Address
+District
+Select place of birth...
+Village
+Beneficiary Documents
+Upload Documents
